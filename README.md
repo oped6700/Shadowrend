@@ -4,3 +4,5 @@
 ![demo](https://github.com/oped6700/Shadowrend/blob/main/index.gif)
 
 ![WatchDog](https://github.com/oped6700/Shadowrend/blob/main/pic/watchdog.png)
+
+![WatchDod1](https://github.com/oped6700/Shadowrend/blob/main/pic/watchdog1.png)
